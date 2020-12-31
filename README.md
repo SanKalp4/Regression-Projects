@@ -14,3 +14,6 @@ Will be subsequently improving score implementing other models in due time.
 
 Update 2:
 Tried optimising the model with Decision Tree regressor resulting a better public LB score. The R2 score came to 0.44.
+
+Update 3:
+R2 score updated to 0.68 using random forest and 0.67 using XGB. Will subsequently implement PCA and Randomised search with RF( as this is a very large dataset GridSearchCV will probably fry my computer or I will get bored) and introduced those removed dummy variables to see if the model improves.
