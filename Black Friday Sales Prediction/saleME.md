@@ -9,4 +9,6 @@ A retail company “ABC Private Limited” wants to understand the customer purc
 The goal is to build a model to predict the purchase amount of customer against various products which will help the company to create personalized offer for customers against different products.
 
 
-R2 score updated to 0.68 using random forest and 0.67 using XGB. Will subsequently work on to improve model performance
+R2 score updated to 0.68 using random forest and 0.67 using XGB. 
+
+Datahack score achieved in public leaderboard was 2962.606. Analytics Vidhya highest leaderboard score is 2372.033 . Will subsequently work on to improving model performance.
