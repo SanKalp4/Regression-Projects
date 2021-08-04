@@ -10,6 +10,6 @@ The goal is to build a model to predict the purchase amount of customer against 
 RMSE was the metric instructed to use for scoring.
 
 
-R2 score 0.67 using random forest,0.66 using XGB, 0.729 for randomized search LGBM. Lowest RMSE achieved 2615.75
+R2 score 0.68.9 using random forest,0.65 using XGB, 0.7229 for randomized search LGBM. Lowest RMSE achieved 2599.83
 
-Datahack score achieved in public leaderboard was 2899.503. Analytics Vidhya highest leaderboard score is 2372.033 . Will subsequently work on to improving model performance.
+Datahack score achieved in public leaderboard was 2685.5. Analytics Vidhya highest leaderboard score is 2372.033 . Will subsequently work on to improving model performance.
